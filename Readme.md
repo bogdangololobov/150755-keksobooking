@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Богдан Гололобов](https://up.htmlacademy.ru/javascript/11/user/150755).
-* Наставник: `Неизвестно`.
+* Наставник: [Данил Чекалин](https://htmlacademy.ru/profile/id335807).
 
 ---
 
